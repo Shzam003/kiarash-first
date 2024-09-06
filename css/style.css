@@ -9,6 +9,12 @@ h1 {
 }
 p {
   color: red;
-  font-family:sanserif
+  font-family: sanserif;
 }
-    
+head {
+  color: red;
+  cock-family: sanserif;
+}
+body{
+  margin: auto;
+}
